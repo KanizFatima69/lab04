@@ -1,4 +1,3 @@
-# Lab06
 # Campus Café
  
 A three-page website for a fictional university coffee shop.
