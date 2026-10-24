@@ -11,4 +11,4 @@
 | Protocol in the address bar (http or https) | http |
 
 ## Why is this address http and not https?
-HTTPS protect that traffic  that travels on a network. But this adress is on localhost it is on its own machine not on other machine,it does not go on any other network so 
+HTTPS protect that traffic  that travels on a network. But this adress is on localhost it is on my own machine not on other machine,it does not go on any other network so 
