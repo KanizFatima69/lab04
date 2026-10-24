@@ -253,10 +253,7 @@ form > fieldset {
     font-weight: 600;
     color: #0a6b50;
   }
-/* ---------- TEMPORARY: specificity experiment (delete in Step 4.9) ---------- */
-#main p {
-    color: red;  
-}
+
 /* ---------- 10. Positioning ---------- */
  
 /* sticky: stays at the top while the page scrolls */
