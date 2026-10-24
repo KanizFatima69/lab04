@@ -261,10 +261,13 @@ form > fieldset {
  
 /* sticky: stays at the top while the page scrolls */
 .site-header {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-  }
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--brand-dark);
+  color: #fff;
+  padding: 12px 24px;
+}
    
   /* absolute: placed inside its nearest positioned parent */
   .menu-item { position: relative; }
